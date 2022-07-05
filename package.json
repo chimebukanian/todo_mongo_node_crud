@@ -1,0 +1,11 @@
+{
+    "name": "todo_rest_api",
+    "version": "1.0.0",
+    "description": "todo rest api",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "anyanwu chimebuka",
+    "license": "ISC"
+}
